@@ -1,0 +1,9 @@
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\bin\Debug\newResumefolder.exe.config
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\bin\Debug\newResumefolder.exe
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\bin\Debug\newResumefolder.pdb
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.csprojResolveAssemblyReference.cache
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.Form1.resources
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.Properties.Resources.resources
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.csproj.GenerateResource.Cache
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.exe
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\newResumefolder\newResumefolder\obj\Debug\newResumefolder.pdb
